@@ -19,6 +19,17 @@
 
 ### <img src="https://media.tenor.com/GocCvG7hs78AAAAi/rocket-joypixels.gif" width="40" height="40" alt="Rocket Joypixels Sticker - Rocket Joypixels Flying Up Stickers" style="background-color: unset;"> Experience
 
+- **Lead Analyst** @ I-PAC (Indian Political Action Committee)
+  - Developed and executed strategic technical plans to align technology solutions with business goals.
+  - Designed scalable, efficient solutions and actively contributed to coding, ensuring high-quality results.
+  - Resolved complex technical challenges, delivered innovative solutions, and maintained comprehensive documentation.
+  - Collaborated effectively with cross-functional teams, ensuring delivery of high-quality solutions.
+  - Continuously optimized system performance for enhanced efficiency and adherence to security standards.
+  - Promoted a culture of continuous improvement through agile practices and methodologies.
+  - Managed technology vendor relationships, assisted in budget planning, and provided training and development opportunities.
+  - Communicated effectively with stakeholders, translating technical initiatives into business objectives.
+  - Ensured the highest quality of technical deliverables through rigorous testing and adherence to coding standards.
+    
 - **Software Engineer** @ ITS Planners and Engineers
   - Leveraging my expertise in Amazon Web Services (AWS), SQL, and Linux to design and develop robust software solutions.
   - Building user-friendly interfaces with HTML5, PHP, JavaScript, and MySQL.
